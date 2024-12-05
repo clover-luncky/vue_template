@@ -1,0 +1,9 @@
+intro:
+  desc: Vue Template
+  whats-your-name: What's your name?
+  hi: Hi, {name}!
+  dynamic-route: Demo of dynamic route
+  aka: Alse known as
+button:
+  go: Go
+  back: Back
